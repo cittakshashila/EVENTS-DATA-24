@@ -25,7 +25,7 @@
         "date": "01/03/2024"
     },
     "HUGFAC": {
-        "name": "AI&DS with Hugging Face",
+        "name": "AI & DS with Hugging Face",
         "type": "WORKSHOP",
         "date": "02/03/2024"
     },
@@ -112,12 +112,12 @@
     "CSBS": {
         "name": "Cybersecurity",
         "type": "WORKSHOP",
-        "date": "02/03/2024"
+        "date": "01/03/2024"
     },
     "ENTPRE": {
         "name": "Entreprenuership",
         "type": "WORKSHOP",
-        "date": "01/03/2024"
+        "date": "02/03/2024"
     },
     "SCRIPT": {
         "name": "Script Writing",
