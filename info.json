@@ -184,10 +184,15 @@
     "type": "NON-TECHNICAL",
     "date": "29/02/2024"
   },
-  "WWEEB": {
-    "name": "World of Weebs (Anime Quiz)",
+  "WWEEB1": {
+    "name": "World of Weebs (Anime Quiz) - Day 2",
     "type": "NON-TECHNICAL",
     "date": "01/03/2024"
+  },
+  "WWEEB2": {
+    "name": "World of Weebs (Anime Quiz) - Day 3",
+    "type": "NON-TECHNICAL",
+    "date": "02/03/2024"
   },
   "CYPHR": {
     "name": "Cypher",
