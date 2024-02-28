@@ -315,5 +315,10 @@
   "POETR": {
     "name": "Poetry (Online)",
     "type": "ONLINE EVENT"
+  },
+  "ZZZZ": {
+    "name": "Sfsha",
+    "type": "NON-TECHNICAL",
+    "date": "29/02/2024"
   }
 }
